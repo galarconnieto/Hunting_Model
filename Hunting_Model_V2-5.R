@@ -13,7 +13,7 @@ for(run in 1:10){
   
   ##Set fixed parameters
   
-  ## Density of animals (ind/km2) at carruying capacity
+  ## Density of animals (ind/km2) at carring capacity
   ## from Distance Sampling (1/16 to fit the cells in the simulation matrix) based on data from 7 localities
   
   abund.small <- 40/16
